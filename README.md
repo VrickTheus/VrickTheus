@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi
+### I'm just a student,
+### so some things in the code may be wrong,
+### but I hope to have fun learning. [fodase](https://twitch.tv/alanzoka)
 
 <!--
 **VrickTheus/VrickTheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
