@@ -1,3 +1,3 @@
-### 👋 Hi
-### I'm just a student, so some things in the code may be wrong, but I hope to have fun learning!
+### 👋 Oi
+### Sou apenas um estudante, então algumas coisas nos meus códigos podem estar erradas, mas espero me divertir aprendendo!
 <img src="https://tenor.com/view/naruto-kakashi-wave-hi-hello-gif-16945362.gif" width="500px"/>
